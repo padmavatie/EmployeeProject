@@ -1,0 +1,291 @@
+.row{
+    background-color:#DC143C;
+    height: 100px;
+    position:fixed;
+    top:0px;
+    width: 100%;
+    
+    }
+ .abc{
+      background-color: transparent;
+      color:white;
+      border: none;
+      margin-left:200px;
+      margin-top: 20px;
+      font-size: 15px;
+      line-height:6px;
+      outline:none;
+      letter-spacing:4.9px;
+}
+ .abc1{
+     font-size:21px;
+     font-weight: inherit;
+     line-height:6px;
+    letter-spacing:5.6px;
+     margin-right: 5px;
+}
+.def{
+    margin-top:35px;
+    margin-left:280px;
+    background-color: transparent;
+    color: white;
+    border-color: white;
+    width:17%;
+    border: solid;
+    outline:none;
+}
+.def:hover{
+    background-color: white;
+    color: #DC143C;
+    outline: none;
+}
+.left{
+    background-color:rgb(59,134,255);
+    width:20%;
+    height:900px;
+    position: fixed;
+    margin-top:100px;
+    
+}
+.one{
+    font-size:25px;
+    margin-top:140px;
+    margin-left:23px;
+    color: white;
+}
+label{
+    color:white;
+    margin-left:15px;
+    font-weight:inherit;
+}
+.arw{
+    margin-left:75px;
+    color: white;
+}
+.two{
+    font-size: 25px;
+    margin-left: 23px;
+    color: white;
+    margin-top:25px;
+}
+.arw1{
+    margin-left:118px;
+    color: white;
+}
+.three{
+    font-size: 25px;
+    margin-left: 23px;
+    color: white;
+    margin-top:27px;
+}
+.arw2{
+    margin-left:115px;
+    color: white;
+}
+.four{
+font-size: 25px;
+margin-left: 23px;
+color: white;
+margin-top:27px;
+}
+.arw3{
+    margin-left:108px;
+    color: white;
+}
+.five{
+    font-size: 25px;
+    margin-left: 23px;
+    color: white;
+    margin-top:29px;
+    }
+ .arw4{
+        margin-left:108px;
+        color: white;
+    }
+.six{
+        font-size: 25px;
+        margin-left: 23px;
+        color: white;
+        margin-top:29px;
+        }
+
+ .arw5{
+            margin-left:68px;
+            color: white;
+        }
+       
+.right{
+    height: 900px;
+    width: 80%;
+    float: left;
+    margin-left:20% ;
+    margin-top: 100px;
+    background-color:#F8F8F8;
+    z-index: -1;
+
+    }
+    .icons{
+        margin-top: 20px;
+    }
+    .btn{
+        color: grey;
+        margin-left:20px;
+     }
+      .srh{
+         margin-left:30px;
+         border-top:0px;
+          border-left: 0px;
+          border-right: 0px;
+          background-color:#F8F8F8 ;
+          color: grey;
+     }
+        .bel{
+          border: none;
+         margin-left:150px;
+          background-color:#F8F8F8 ;
+          color: grey;
+         
+      }
+      .slide{
+          border: none;
+          margin-left:30px;
+          background-color:#F8F8F8 ;
+          color: grey;
+    
+      }
+    .dash{
+        border-left: 2px solid grey;
+        margin-left: 30px;
+        padding:6px;
+    }
+    img{
+        width:40px;
+        border-radius:80%;
+        margin-left: 10px;
+       }  
+       .name{
+           color: grey;
+           font-family: inherit;    
+       }
+       .aw{
+           color: grey;
+           margin-left: 10px;
+       }
+       .name1{
+           color:gray;
+           font-family:  Arial, Helvetica, sans-serif;
+           font-size:30px;
+           margin-top:70px;
+           margin-left:35px;
+           
+       }
+       .year{
+        color: grey;
+        font-family:  Arial, Helvetica, sans-serif;
+        font-size:15px;
+        margin-top:85px;
+        margin-left:500px;
+       }
+       .month{
+        
+            color:rgb(59,134,255) ;
+            font-family:  Arial, Helvetica, sans-serif;
+            font-size:15px;
+            margin-top:85px;
+            margin-left:30px;
+            text-decoration: underline;
+           }
+           .week{
+            color: grey;
+            font-family:  Arial, Helvetica, sans-serif;
+            font-size:15px;
+            margin-top:85px;
+            margin-left:30px;
+           }
+    
+           .day{
+            color: grey;
+            font-family:  Arial, Helvetica, sans-serif;
+            font-size:15px;
+            margin-top:85px;
+            margin-left:30px;
+           }
+           .cal{
+            color: grey;
+            font-size:18px;
+            margin-top:85px;
+            margin-left:30px;
+           }
+           .com{
+               color: grey;
+               margin-left:35px;
+               font-size: 15px;
+
+           }
+           .date{
+            color: gray;
+            font-size: 15px;
+            font-weight: bold;
+            margin-left:5px;
+
+        }
+        .bag1{
+            margin-left:35px;
+            margin-top:30px;
+            color: gray;
+            // background-color:lightgreen;
+        }
+        
+        .card1{
+            width:250px;
+            height:170px;
+            background-color:rgb(51, 255, 204);
+            margin-left: 40px;
+            margin-top: 50px;
+            border-radius:7px;
+            float: left;
+            // display: flex;
+            // justify-content: space-around;
+        }
+        .point{
+            color: rgb(88,88,88);
+            font-size:20px;
+            margin-top:15px;
+            margin-left:20px;
+           }
+           .card2{
+            width:250px;
+            height:170px;
+            background-color:white;
+            margin-top: 50px;
+            border-radius:7px;
+            float: right;
+            
+            
+        }
+        .card3{
+            width:250px;
+            height:170px;
+            background-color:white;
+            margin-top: 50px;
+            border-radius:7px;
+
+           }
+        //    .card4{
+        //     width:250px;
+        //     height:170px;
+        //     background-color:white;
+        //     margin-top: 50px;
+        //     border-radius:7px;
+
+        //    }
+           
+         
+           
+        
+    
+        
+
+    
+     
+ 
